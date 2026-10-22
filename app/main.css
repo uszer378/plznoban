@@ -1,0 +1,13 @@
+.nav{
+    background-color:black;
+    display: flex;
+    flex-direction: row;
+    padding: .5%;
+}
+.material-symbols-outlined{
+    color: white;
+    font-size: 30px;
+}
+body{
+    margin:0px;
+}
