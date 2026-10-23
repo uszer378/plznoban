@@ -4,6 +4,7 @@
     flex-direction: row;
     padding: .5%;
     margin:0px;
+    height:10px;
 }
 .material-symbols-outlined{
     color: white;
