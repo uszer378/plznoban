@@ -6,6 +6,9 @@
     margin:0px;
     height:10px;
 }
+.nav a{
+    text-decoration: none;
+}
 .material-symbols-outlined{
     color: white;
     font-size: 30px;
